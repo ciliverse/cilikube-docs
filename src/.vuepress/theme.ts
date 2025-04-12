@@ -209,7 +209,7 @@ export default hopeTheme({
     },
 
     icon: {
-      prefix: "fa6-solid: ",  // prefix for icons
+      prefix: "fa6-solid:",  // prefix for icons
     },
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
