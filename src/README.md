@@ -2,19 +2,19 @@
 home: true
 layout: BlogHome
 icon: house
-title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
+title: CiliKube
+heroImage: /logo.png
+heroText: CiliKube
 tagline: You can put your slogan here
 heroFullScreen: true
 projects:
   - icon: folder-open
-    name: project name
+    name: open source project
     desc: project detailed description
     link: https://your.project.link
 
   - icon: link
-    name: link name
+    name: personal blog
     desc: link detailed description
     link: https://link.address
 
@@ -38,11 +38,5 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer:  Life is as gorgeous as summer flowers, death is as quiet and beautiful as autumn leaves
 ---
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home.html).
