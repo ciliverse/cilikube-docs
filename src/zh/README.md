@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: house
 title: CiliKube主页
+bgImage: assets/images/bg4.jpg
 heroImage: /logo.png
 heroText: CILIKUBE
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: K8s初学者和开发者入门的优质开源项目
 projects:
   - icon: folder-open
     name: 项目名称
@@ -40,3 +41,4 @@ projects:
 
 footer: 自定义你的页脚文字
 ---
+

@@ -4,8 +4,9 @@ layout: BlogHome
 icon: house
 title: CiliKube
 heroImage: /logo.png
+bgImage: assets/images/bg4.jpg
 heroText: CiliKube
-tagline: You can put your slogan here
+tagline: A Easy K8s Project
 heroFullScreen: true
 projects:
   - icon: folder-open
