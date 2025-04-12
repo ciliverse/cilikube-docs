@@ -6,10 +6,10 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
-  author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
-  },
+  // author: {
+  //   name: "Mr.Hope",
+  //   url: "https://mister-hope.com",
+  // },
 
   logo: "/logoba.png",
 
@@ -59,6 +59,7 @@ export default hopeTheme({
 
   locales: {
     "/": {
+
       // navbar
       navbar: enNavbar,
      
@@ -84,6 +85,10 @@ export default hopeTheme({
      * Chinese locale config
      */
     "/zh/": {
+      author: {
+        name: "希里安",
+        url: "https://www.cillian.website",
+      },
       // navbar
       navbar: zhNavbar,
 
@@ -95,7 +100,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "一个自由开发者",
         intro: "/zh/intro.html",
         avatar: "/favicon.ico",
       },

@@ -2,7 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/zh/",
-  // "/zh/demo/",
+  "/zh/posts/",
   // {
   //   text: "博文",
   //   icon: "pen-to-square",
@@ -44,9 +44,9 @@ export const zhNavbar = navbar([
   //     "strawberry",
   //   ],
   // },
-  {
-    text: "希里安k8s总结",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  // {
+  //   text: "希里安k8s总结",
+  //   icon: "book",
+  //   link: "https://k8s.cillian.website",
+  // },
 ]);
