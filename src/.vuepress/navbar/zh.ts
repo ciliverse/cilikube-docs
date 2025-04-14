@@ -44,9 +44,23 @@ export const zhNavbar = navbar([
   //     "strawberry",
   //   ],
   // },
-  // {
-  //   text: "希里安k8s总结",
-  //   icon: "book",
-  //   link: "https://k8s.cillian.website",
-  // },
+  
+
+
+  {
+    text: "概念",
+    icon: "book",
+    link: "/zh/concepts/",
+  },
+
+  {
+    text: "开源贡献",
+    icon: "book",
+    link: "/zh/contributing/",
+  },
+{
+  text: "希里安k8s总结",
+  icon: "book",
+  link: "https://k8s.cillian.website",
+},
 ]);

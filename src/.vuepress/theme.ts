@@ -50,10 +50,10 @@ export default hopeTheme({
       // Whatsapp: "https://example.com",
       // Youtube: "https://example.com",
       Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://cilikube.cillian.website/favicon.ico",
-        link: "https://theme-hope.vuejs.press",
-      },
+      // VuePressThemeHope: {
+      //   icon: "https://cilikube.cillian.website/favicon.ico",
+      //   link: "https://theme-hope.vuejs.press",
+      // },
     },
   },
 
@@ -95,7 +95,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "生如夏花之绚烂，死如秋叶之静美",
 
       displayFooter: true,
 

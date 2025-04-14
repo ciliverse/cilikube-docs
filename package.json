@@ -21,5 +21,8 @@
     "onlyBuiltDependencies": [
       "esbuild"
     ]
+  },
+  "dependencies": {
+    "@vueuse/core": "^13.1.0"
   }
 }

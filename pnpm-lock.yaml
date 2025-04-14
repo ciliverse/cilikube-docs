@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      '@vueuse/core':
+        specifier: ^13.1.0
+        version: 13.1.0(vue@3.5.13)
     devDependencies:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.20

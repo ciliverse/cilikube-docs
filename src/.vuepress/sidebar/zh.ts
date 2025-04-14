@@ -1,7 +1,7 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-  "/zh/": [
+  "/zh/posts/": [
     // "",
     // {
     //   text: "如何使用",
@@ -13,10 +13,12 @@ export const zhSidebar = sidebar({
     {
       text: "文档",
       icon: "book",
-      prefix: "posts/",
-      // link: "demo/",
+      // prefix: "posts/",
+      link: "posts/",
       children: "structure",
     },
+    
+
     // "intro",
     // {
     //   text: "幻灯片",
@@ -24,4 +26,21 @@ export const zhSidebar = sidebar({
     //   link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
     // },
   ],
+
+  "/zh/concepts/": [
+  {
+    text: "概念",
+    icon: "book",
+    link: "/zh/concepts/",
+    children: "structure",
+  },
+],
+"/zh/contributing/": [
+  {
+    text: "开源贡献",
+    icon: "book",
+    link: "/zh/contributing/",
+    children: "structure",
+  },
+],
 });
