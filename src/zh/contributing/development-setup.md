@@ -2,6 +2,7 @@
 title: 开发环境设置
 icon: tools
 order: 2
+article: false
 ---
 
 # 🛠️ 开发环境设置

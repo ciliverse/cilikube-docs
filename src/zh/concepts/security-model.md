@@ -2,6 +2,7 @@
 title: 安全模型
 icon: user-shield
 order: 3
+article: false
 ---
 
 # 🛡️ 安全模型

@@ -2,6 +2,7 @@
 title: 行为准则
 icon: user-friends # 或者 'gavel'
 order: 1
+article: false
 ---
 
 # <Icon icon="user-friends" /> 行为准则 (Code of Conduct)

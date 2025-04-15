@@ -2,6 +2,7 @@
 title: CiliKube 是什么？
 icon: info-circle
 order: 0
+sticky: true
 ---
 
 # 🤔 CiliKube 是什么？

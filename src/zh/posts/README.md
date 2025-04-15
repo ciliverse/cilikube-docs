@@ -2,6 +2,7 @@
 title: 入门指南
 icon: rocket
 index: false # 通常 section 的 README 不需要显示在侧边栏条目中
+article: false
 ---
 
 # 👋 入门指南

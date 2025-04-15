@@ -2,6 +2,7 @@
 title: 集群管理
 icon: cloud # 或者 'cubes'
 order: 2
+article: false
 ---
 
 # ☁️ 集群管理

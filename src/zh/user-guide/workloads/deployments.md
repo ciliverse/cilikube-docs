@@ -3,6 +3,7 @@
 title: Deployments
 icon: object-group
 order: 1
+article: false
 ---
 
 # <Icon icon="object-group" /> Deployments

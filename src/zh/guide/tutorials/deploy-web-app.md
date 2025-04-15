@@ -2,6 +2,7 @@
 title: 部署一个 Web 应用 (Nginx)
 icon: map
 order: 1
+article: false
 ---
 
 # <Icon icon="cloud-upload-alt" /> 教程：部署一个 Web 应用 (Nginx)

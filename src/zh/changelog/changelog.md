@@ -2,6 +2,7 @@
 title: 更新日志 (Changelog)
 icon: history
 order: 4
+article: false
 ---
 
 # 📜 更新日志 (Changelog)

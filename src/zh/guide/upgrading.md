@@ -2,6 +2,7 @@
 title: 升级指南
 icon: arrow-up
 order: 4
+article: false
 ---
 
 # ⬆️ 升级指南

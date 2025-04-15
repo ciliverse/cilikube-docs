@@ -2,6 +2,7 @@
 title: 安装部署
 icon: download
 order: 3
+article: false
 ---
 
 # 🔧 安装部署 CiliKube

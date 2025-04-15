@@ -2,6 +2,7 @@
 title: 节点管理
 icon: server # 或者 'hdd'
 order: 3
+article: false
 ---
 
 # 🖥️ 节点管理

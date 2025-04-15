@@ -2,6 +2,7 @@
 title: 配置 Ingress 域名访问
 icon: globe
 order: 2
+article: false
 ---
 
 # <Icon icon="globe-americas" /> 教程：配置 Ingress 域名访问

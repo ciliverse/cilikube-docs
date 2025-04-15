@@ -2,6 +2,7 @@
 title: Dashboard 概览
 icon: tachometer-alt
 order: 1
+article: false
 ---
 
 # 📊 Dashboard 概览

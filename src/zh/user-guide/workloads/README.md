@@ -3,6 +3,7 @@
 title: 工作负载管理
 icon: cubes # 或者 'layer-group'
 index: false
+article: false
 ---
 
 # <Icon icon="cubes" /> 工作负载管理

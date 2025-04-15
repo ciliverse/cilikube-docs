@@ -2,6 +2,7 @@
 title: 快速入门 (5 分钟)
 icon: tachometer-alt # 或者 'stopwatch'
 order: 2
+article: false
 ---
 
 # 🚀 快速入门 (5 分钟)

@@ -2,6 +2,7 @@
 title: 贡献指南
 icon: code-branch # 或者 'hands-helping'
 index: false
+article: false
 ---
 
 # <Icon icon="code-branch" /> 贡献指南

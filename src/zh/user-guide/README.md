@@ -2,6 +2,7 @@
 title: 用户指南
 icon: server
 index: false
+article: false
 ---
 
 # 📘 用户指南

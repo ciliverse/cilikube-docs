@@ -2,6 +2,7 @@
 title: 操作教程
 icon: laptop-code
 index: false
+article: false
 ---
 
 # 📖 操作教程
