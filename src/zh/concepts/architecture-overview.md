@@ -6,7 +6,7 @@ article: true
 date: 2025-04-02
 category:
   - 架构
-cover: /zh/concepts/flow.png
+cover: /flow.png
 tag:
   - 架构
 star: true
