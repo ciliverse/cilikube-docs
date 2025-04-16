@@ -15,10 +15,10 @@ star: true
 # 🏗️ 架构概览
 
 CiliKube 采用现代化的前后端分离架构，旨在提供清晰、可扩展且高效的管理平台。
-![alt text](flow.png)
+![alt text](../../.vuepress/public/flow.png)
 
 ## 主要组件
-![alt text](architech.png)
+![alt text](../../.vuepress/public/flow.png)
 
 1.  **前端 (Frontend):**
     *   **技术栈:** Vue 3, TypeScript, Vite, Element Plus。
