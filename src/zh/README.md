@@ -10,24 +10,24 @@ heroFullScreen: true
 tagline: Kubernetes初学和开发入门的优质开源项目
 projects:
   - icon: folder-open
-    name: CiliKube
-    desc: 项目详细描述
-    link: https://你的项目链接
+    name: CILIKUBE
+    desc: 项目指南
+    link: /zh/posts/
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: 仓库地址
+    desc: GitHub
+    link: https://github.com/ciliverse/cilikube
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: 概念
+    desc: cilikube概念
+    link: /zh/concepts/
 
   - icon: newspaper
-    name: 文章名称
-    desc: 文章详细描述
-    link: https://你的文章链接
+    name: 贡献准则
+    desc: 贡献详细描述
+    link: /zh/contributing/
 
   # - icon: user-group
   #   name: 伙伴名称

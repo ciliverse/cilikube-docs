@@ -1,17 +1,24 @@
 ---
-title: 架构概览
+title: CILIKUBE 架构概览
 icon: project-diagram # 或者 'network-wired'
 order: 2
+article: true
+date: 2025-04-02
+category:
+  - 架构
+cover: /zh/concepts/flow.png
+tag:
+  - 架构
+star: true
 ---
 
 # 🏗️ 架构概览
 
 CiliKube 采用现代化的前后端分离架构，旨在提供清晰、可扩展且高效的管理平台。
-
-<!-- ![CiliKube 架构图](placeholder.png) -->
-*(你需要绘制一个架构图: 用户 -> 浏览器(Vue3 Frontend) -> Nginx/Gateway(可选) -> Go Backend API -> K8s API Server -> Etcd)*
+![alt text](flow.png)
 
 ## 主要组件
+![alt text](architech.png)
 
 1.  **前端 (Frontend):**
     *   **技术栈:** Vue 3, TypeScript, Vite, Element Plus。
@@ -26,7 +33,7 @@ CiliKube 采用现代化的前后端分离架构，旨在提供清晰、可扩�
         *   执行 K8s 资源的管理操作（创建、读取、更新、删除 - CRUD）。
         *   处理用户认证和授权（如果平台本身有用户系统）。
         *   聚合或处理来自 K8s API 的数据，使其更适合前端展示。
-        *   (可选) 可能包含与监控系统 (Prometheus) 或日志系统 (Elasticsearch) 的集成。
+        *   (可选) 包含与监控系统 (Prometheus) 或日志系统 (Elasticsearch) 的集成。
     *   **特点:** Go 语言带来的高性能和高并发能力，Gin 框架的简洁高效，`client-go` 的官方支持和稳定性。
 
 3.  **Kubernetes API Server:**
@@ -37,8 +44,7 @@ CiliKube 采用现代化的前后端分离架构，旨在提供清晰、可扩�
     *   **职责:** 存储访问 Kubernetes 集群所需的配置信息（API Server 地址、用户凭证、上下文等）。
     *   **使用:** CiliKube 后端读取 Kubeconfig 文件来确定如何连接以及以哪个用户的身份连接到目标 K8s 集群。
 
-## 数据流示例 (查看 Pod 列表)
-
+## 数据流 (查看 Pod 列表)
 1.  用户在浏览器中打开 CiliKube，导航到 Pod 列表页面。
 2.  前端 (Vue) 发送一个 HTTP GET 请求到后端 API (例如 `/api/v1/pods?namespace=default`)。
 3.  后端 (Go/Gin) 接收到请求，解析出需要查询的命名空间。

@@ -1,8 +1,13 @@
 ---
-title: CiliKube 是什么？
+title: CILIKUBE 是什么？
 icon: info-circle
 order: 0
 sticky: true
+cover: /logoba.png
+date: 2025-04-01
+tag:
+  - CILIKUBE
+star: true
 ---
 
 # 🤔 CiliKube 是什么？
