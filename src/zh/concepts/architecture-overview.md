@@ -1,15 +1,15 @@
 ---
 title: CILIKUBE 架构概览
 icon: project-diagram # 或者 'network-wired'
-order: 2
+order: 1
 article: true
 date: 2025-04-02
 category:
   - 架构
 cover: /flow.png
-tag:
-  - 架构
-star: true
+# tag:
+#   - 架构
+# star: true
 ---
 
 # 🏗️ 架构概览

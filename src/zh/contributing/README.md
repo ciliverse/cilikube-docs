@@ -2,6 +2,7 @@
 title: 贡献指南
 icon: code-branch # 或者 'hands-helping'
 index: false
+order: 2
 article: false
 ---
 
