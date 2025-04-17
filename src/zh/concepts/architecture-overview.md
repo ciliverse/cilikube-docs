@@ -10,6 +10,7 @@ cover: /flow.png
 # tag:
 #   - 架构
 # star: true
+sticky: true
 ---
 
 # 🏗️ 架构概览
