@@ -2,6 +2,7 @@
 title: 贡献流程
 icon: project-diagram # 或者 'sitemap'
 order: 4
+article: true
 ---
 
 # <Icon icon="project-diagram" /> 贡献流程

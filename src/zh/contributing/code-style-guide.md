@@ -2,6 +2,7 @@
 title: 代码风格指南
 icon: code
 order: 3
+article: false
 ---
 
 # <Icon icon="code" /> 代码风格指南

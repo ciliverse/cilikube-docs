@@ -2,6 +2,7 @@
 title: 常见问题解答 (FAQ)
 icon: question-circle
 # aticle: false
+order: -1
 ---
 
 # ❓ 常见问题解答 (FAQ)
