@@ -13,7 +13,7 @@ export default hopeTheme({
 
   logo: "/logoba.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ciliverse/cilikube",
 
   docsDir: "src",
 
